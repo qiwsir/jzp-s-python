@@ -28,6 +28,6 @@ for count in range(dim-1):#每个顶点作为起始顶点遍历一次
 if m==999:
     print("没有最小树")
 else:
-    print("生成树的距离矩阵：",distance)
-    print("生成树的形状：",parent)
+    print("生成树的距离矩阵：",distance)#输出权矩阵(index+1)
+    print("生成树的形状：",parent)#输出上一个节点（index+1）
 
