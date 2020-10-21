@@ -1,3 +1,4 @@
+#dijkstra算法
 dim=input("请输入顶点个数：")
 dim=int(dim)
 G=[[0]*dim for i in range(dim)]
