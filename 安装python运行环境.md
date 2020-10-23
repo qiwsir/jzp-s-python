@@ -1,5 +1,5 @@
 # 安装python运行环境
-## 第一步：<br/n>
+## 第一步：
 
 从python官网上下载对应的python版本，地址是：
 [https://www.python.org/downloards/](https://www.python.org/donloards/)
