@@ -2,7 +2,7 @@
 ## 第一步：<br/n>
 
 从python官网上下载对应的python版本，地址是：
-[https://www.python.org/donloards/](https://www.python.org/donloards/)
+[https://www.python.org/downloards/](https://www.python.org/donloards/)
 
 
 ![python官网](https://github.com/sudajzp/photos/blob/master/python1.png?raw=true)
